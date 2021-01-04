@@ -1,22 +1,13 @@
-# real-world-nuxt
+### Hi there 👋, My name is Phuong Le
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-> My first-rate Nuxt.js project
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-## Build Setup
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-``` bash
-# install dependencies
-$ npm run install
+- 🔭 I’m currently working on this page. 
 
-# serve with hot reload at localhost:3000
-$ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm run start
 
-# generate static project
-$ npm run generate
-```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
